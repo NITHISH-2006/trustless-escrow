@@ -1,4 +1,4 @@
-# Trustless Escrow — 48-Hour Web3 Sprint
+# Trustless Escrow — 
 
 My background is Java and full-stack development (MERN stack). I had one week
 to prepare for a blockchain infrastructure interview. Instead of only reading
